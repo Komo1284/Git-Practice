@@ -1,1 +1,7 @@
-secrets.yaml
+log.log
+
+*.log
+
+Build/
+
+Build/.log
